@@ -1,0 +1,21 @@
+{
+  "name": "miningdataimdb",
+  "version": "1.0.0",
+  "description": "mining data film from IMDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "imdb",
+    "mining",
+    "tampermonkey"
+  ],
+  "author": "Beta Priyoko <beta.priyoko@students.amikom.ac.id>",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.9.0"
+  }
+}
