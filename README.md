@@ -1,1 +1,1 @@
-# node_scrap_imdb
+Node.js crawling imdb data.
